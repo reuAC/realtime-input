@@ -1,0 +1,37 @@
+{
+  "name": "realtime-input",
+  "version": "1.0.0",
+  "description": "A real-time input service powered by Express and Socket.IO.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "keywords": [
+    "real-time",
+    "socket.io",
+    "express",
+    "input",
+    "live-update"
+  ],
+  "author": "Your Name your.email@example.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/realtime-input.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/realtime-input/issues"
+  },
+  "homepage": "https://github.com/yourusername/realtime-input#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
