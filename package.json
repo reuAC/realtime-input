@@ -14,7 +14,7 @@
     "input",
     "live-update"
   ],
-  "author": "Your Name your.email@example.com",
+  "author": "reuac@qq.com",
   "license": "MIT",
   "dependencies": {
     "express": "^4.21.1",
@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/realtime-input.git"
+    "url": "https://github.com/reuAC/realtime-input.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/realtime-input/issues"
+    "url": "https://github.com/reuAC/realtime-input/issues"
   },
-  "homepage": "https://github.com/yourusername/realtime-input#readme",
+  "homepage": "https://github.com/reuAC/realtime-input#readme",
   "engines": {
     "node": ">=14.0.0"
   }
